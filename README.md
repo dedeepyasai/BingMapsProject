@@ -6,3 +6,10 @@ In SPA, wrap custom/app component into node module, Angular Element and publish 
 
 # Timeline
 ET is 07/14/2022
+
+# Test Cases
+Unit Tests - Karma & Jasmine
+End Test(Optional)
+
+# Linting Issues 
+Make sure there are no linting issues
