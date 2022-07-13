@@ -18,7 +18,10 @@
     "@angular/platform-browser": "~12.2.0",
     "@angular/platform-browser-dynamic": "~12.2.0",
     "@angular/router": "~12.2.0",
+    "bing-maps-loader": "^1.0.7",
+    "bingmaps": "^2.0.3",
     "rxjs": "~6.6.0",
+    "simplyturn-bing-map": "0.0.2",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },
