@@ -1,7 +1,0 @@
-/*
- * Public API Surface of simplyturn-bing-map
- */
-export * from './lib/simplyturn-bing-map.service';
-export * from './lib/simplyturn-bing-map.component';
-export * from './lib/simplyturn-bing-map.module';
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL3NpbXBseXR1cm4tYmluZy1tYXAvc3JjL3B1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLG1DQUFtQyxDQUFDO0FBQ2xELGNBQWMscUNBQXFDLENBQUM7QUFDcEQsY0FBYyxrQ0FBa0MsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2Ygc2ltcGx5dHVybi1iaW5nLW1hcFxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL3NpbXBseXR1cm4tYmluZy1tYXAuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9zaW1wbHl0dXJuLWJpbmctbWFwLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9zaW1wbHl0dXJuLWJpbmctbWFwLm1vZHVsZSc7ICJdfQ==

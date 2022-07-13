@@ -1,7 +1,7 @@
 # Step 1: Build the app in image 'builder'
 FROM node:12.8-alpine AS builder
 
-WORKDIR /maps-demo/src/app
+WORKDIR src/app
 COPY . .
 RUN yarn && yarn build
 
@@ -12,4 +12,4 @@ LABEL version="1.0"
 COPY nginx.conf /etc/nginx/nginx.conf
 
 WORKDIR /usr/share/nginx/html
-COPY --from=builder /maps-demo/src/app/dist/bing-maps-demo/ .
+COPY --from=builder src/app/dist/bing-maps-demo/ .
