@@ -1,2 +1,4 @@
 node_modules
 /maps-demo/node_modules
+.angular
+ng-packagr
